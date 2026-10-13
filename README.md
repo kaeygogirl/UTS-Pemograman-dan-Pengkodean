@@ -6,7 +6,6 @@
 | Artefak | Tautan |
 |---|---|
 | **Demo Gemini Canvas (Purwarupa UI Voucher Kas Keluar)** | **https://share.gemini.google/fOyeJDJEzWHs** |
-| Repositori Git Publik | *(isi dengan URL repositori Anda)* |
 
 ---
 
